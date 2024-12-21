@@ -17,10 +17,8 @@ int main()
     cin>>age;
 
   }
-  if ( age > 0) 
-  {
     cout<<("\nYou entered")<<age;
-  }
+
   
   
 }
